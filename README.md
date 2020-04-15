@@ -26,9 +26,6 @@ Ce repo contient les codes développés dans le cadre de ma série de vidéo sur
 
 * **Anis Ayari** - *Lead Data Scientist* - [MyLinkedIn](https://www.linkedin.com/in/anis-ayari/)
 
-<script type="text/javascript" src="https://platform.linkedin.com/badges/js/profile.js" async defer></script>
-<div class="LI-profile-badge"  data-version="v1" data-size="medium" data-locale="fr_FR" data-type="horizontal" data-theme="dark" data-vanity="anis-ayari"><a class="LI-simple-link" href='https://fr.linkedin.com/in/anis-ayari?trk=profile-badge'>Anis Ayari</a></div>
-
 ## License
 
 Please be aware that this code is under the GPL3 license. You must report each utilisation of this code to the author of this code (anisayari). Please push your code using this API on a forked Github repo public.- see the [LICENSE.md](LICENSE.md) file for details
