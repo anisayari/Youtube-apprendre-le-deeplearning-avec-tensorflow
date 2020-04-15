@@ -1,4 +1,4 @@
-# Apprendre le Deep Learning avec Tensorflow
+# Série Youtube - Apprendre le Deep Learning avec Tensorflow
 
 Ce repo contient les codes développés dans le cadre de ma série de vidéo sur Youtube pour apprendre à coder en python en utilisant Tensorflow afin de réaliser des tâches de Deep Learning, disponible ici : https://www.youtube.com/defendintelligence-tech 
 
